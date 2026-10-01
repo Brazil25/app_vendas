@@ -1,0 +1,37 @@
+# Ambient e Virtual (venv, env)
+.venv/
+venv/
+env/
+ENV/
+env.bak/
+venv.bak/
+
+# Byte-compiled / arquivos de cache do Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Arquivos do Kivy e compilação
+.kivy/
+*.kv.bak
+
+# Buildozer e PyInstaller (caso compile para Android/Desktop futuramente)
+.buildozer/
+bin/
+build/
+dist/
+*.spec
+
+# Arquivos de IDEs e Editores
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Banco de Dados local / Testes (se aplicável)
+*.db
+*.sqlite3
+
+# Logs e arquivos temporários
+*.log
+*.tmp
