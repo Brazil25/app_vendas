@@ -1,9 +1,12 @@
 import requests
 from kivy.app import App
 import os
+from dotenv import load_dotenv
+
+load_dotenv()
 
 class MyFirebase():
-    API_KEY = "***REMOVED***"
+    API_KEY = os.getenv("FIREBASE_API_KEY")
 
     def criar_conta(self, email, senha):
         link = f"https://identitytoolkit.googleapis.com/v1/accounts:signUp?key={self.API_KEY}"
