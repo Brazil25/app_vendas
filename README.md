@@ -6,8 +6,6 @@ Aplicativo de vendas de insumos para redes de supermercado.
 
 ## Demonstração
 
-## Demonstração
-
 | Tela de Login | Painel de Vendas |
 | :---: | :---: |
 | <img src="demo/Demonstracao1.png" width="400"> | <img src="demo/Demonstracao2.png" width="400"> |
