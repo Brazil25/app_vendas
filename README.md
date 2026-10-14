@@ -6,11 +6,13 @@ Aplicativo de vendas de insumos para redes de supermercado.
 
 ## Demonstração
 
-![Tela de Login](demo/Demonstracao1.png)
-![Painel de Vendas](demo/Demonstracao2.png)
-![Adicionar Venda](demo/Demonstracao3.png)
-![Vendas da Equipe](demo/Demonstracao4.png)
-![Perfil do Usuário](demo/Demonstracao5.png)
+## Demonstração
+
+<img src="demo/Demonstracao1.png" width="600" alt="Tela de Login"><br><br>
+<img src="demo/Demonstracao2.png" width="600" alt="Painel de Vendas"><br><br>
+<img src="demo/Demonstracao3.png" width="600" alt="Adicionar Venda"><br><br>
+<img src="demo/Demonstracao4.png" width="600" alt="Vendas da Equipe"><br><br>
+<img src="demo/Demonstracao5.png" width="600" alt="Perfil do Usuário">
 
 ---
 
