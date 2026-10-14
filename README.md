@@ -62,7 +62,7 @@ Antes de começar, você precisará ter instalado em sua máquina:
 
 3. **Crie e ative o ambiente virtual (opcional, mas recomendado):**
    ```bash
-   python -m venv venv
+   python -m venv .venv
    source venv/bin/activate  # Linux/Mac
    # ou: venv\Scripts\activate  # Windows
    ```
